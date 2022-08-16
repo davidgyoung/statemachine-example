@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "statemachine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Tinder/StateMachine.git",
+      "state" : {
+        "revision" : "0f7964206bd8dbc70f5a30fed0b1db76bfcc1b24",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
